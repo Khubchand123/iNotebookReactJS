@@ -20,7 +20,8 @@ const NoteState = (props) =>{
           "tag": "person",
           "date": "2023-02-13T16:56:25.099Z",
           "__v": 0
-        }
+        },
+        
       ]
     const [notes,serNotes] = useState(notesInitial);
     return(
